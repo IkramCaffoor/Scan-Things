@@ -1,5 +1,9 @@
 # Scan-Things
 
+Description
+Scan-Things is an automated reconnaissance tool designed for penetration testers and cybersecurity learners. It streamlines the initial enumeration phase by combining multiple recon techniques into a single, easy-to-use script.
+
+Built with simplicity and efficiency in mind, Scan-Things helps you quickly gather critical information about a target, whether it's an IP address or a domain.
   ____  ____ _   _ _____ _____ ____  
  / ___||  _ \ / \ | \ | | ____|_   _|  _ \ 
  \___ \| | | |/ _ \ |  \| |  _|   | | | |_) |
