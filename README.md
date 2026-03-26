@@ -24,6 +24,10 @@ Perfect for Hack The Box, TryHackMe, and real-world target reconnaissance.
 
 ---
 
+## 📸 Demo
+
+![Scan-Things Output](https://raw.githubusercontent.com/IkramCaffoor/Scan-Things/main/Screenshot%202026-03-26%20230359.png)
+
 ## Features
 
 - Smart detection: works with both IP addresses and domain names
