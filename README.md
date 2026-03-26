@@ -11,7 +11,6 @@
           Smart Recon for Domains & IPs
 ============================================================
 
-# Scan-Things
 
 **A simple yet powerful automated reconnaissance scanner built for penetration testing practice.**
 
