@@ -24,7 +24,7 @@ Perfect for Hack The Box, TryHackMe, and real-world target reconnaissance.
 
 ---
 
-## 📸 Demo
+## Demo
 
 ![Scan-Things Output](https://raw.githubusercontent.com/IkramCaffoor/Scan-Things/main/Screenshot%202026-03-26%20230359.png)
 
